@@ -11,30 +11,48 @@ Created by <a href="https://github.com/abhat222"><strong>Asif Bhat</strong></a>
 List of Data Science Cheatsheets :
 
 ## Table of Contents
-- [Artificial Intelligence](https://github.com/FavioVazquez/ds-cheatsheets#artificial-intelligence)
-- [Big Data Analytics](https://github.com/abhat222/Data-Science--Cheat-Sheet#big-data-analytics)
-- [Big Data](https://github.com/FavioVazquez/ds-cheatsheets#big-data)
-- [Data Engineering](https://github.com/abhat222/Data-Science--Cheat-Sheet#data-engineering)
-- [Data Mining](https://github.com/abhat222/Data-Science--Cheat-Sheet#data-mining)
-- [Data Science](https://github.com/abhat222/Data-Science--Cheat-Sheet#data-science)
-- [Data Visualization](https://github.com/abhat222/Data-Science--Cheat-Sheet#data-visualization)
-- [Deep Learning](https://github.com/abhat222/Data-Science--Cheat-Sheet#deep-learning)
+- [Artificial Intelligence](Artificial%20Intelligence/README.md)
+- [Big Data](Big%20Data/README.md)
+- [Data Engineering](Data%20Engineering/README.md)
+- [Data Mining](Data%20Mining/README.md)
+- [Data Science](Data%20Science/README.md)
+- [Data Visualization](Data%20Visualization/README.md)
+- [Data Warehouse](Data%20Warehouse/README.md)
+- [Deep Learning](Deep%20Learning/README.md)
+- [DevOps](DevOps/README.md)
+- [Docker & Kubernetes](Docker%20&%20Kubernetes/README.md)
+- [Excel](Excel/README.md)
+- [Git](Git/README.md)
+- [Images](Images//README.md)
+- [Interview Questions](Interview%20Questions/README.md)
+- [Linux](Linux/README.md)
 - [Machine Learning](https://github.com/abhat222/Data-Science--Cheat-Sheet#machine-learning)
-- [SQL](https://github.com/abhat222/Data-Science--Cheat-Sheet#sql)
-- [Python](https://github.com/abhat222/Data-Science--Cheat-Sheet#python)
+- [Mathematics](Mathematics/README.md)
+- [Matlab](Matlab/README.md)
+- [NLP](NLP/README.md)
+- [Numpy](Numpy/README.md)
+- [Ordinary Differential Equations](Ordinary%20Differential%20Equations/README.md)
+- [Pandas](Pandas/README.md)
+- [Probability](Probability/README.md)
+- [Python](Python/README.md)
+- [Scala](Scala/README.md)
+- [SQL](SQL/README.md)
+- [Statistics](Statistics/README.md)
 
 # Python
 
 <a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Python/Python_cheatsheet.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/python_cheatsheet.PNG?" alt="Illustration" width="415px"/> &nbsp; &nbsp; &nbsp;</a><a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Python/spaCy.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/SpaCy.PNG?" alt="Illustration" width="415px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Python Cheat Sheet</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Spacy Cheat Sheet<b><br/>
   
 
-<a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Python/pandas_cheat_sheet.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/DA_Pandas.PNG?" alt="Illustration" height="320px" width="415px"/> &nbsp; &nbsp; &nbsp;</a><a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Python/Reading%20and%20Writing%20data%20with%20PANDAS.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/RW_Panda.PNG?" alt="Illustration" width="415px" height="320px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Data Analysis with Pandas<b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Pandas (Reading and Writing Data)<b><br/>
+<a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Pandas/pandas_cheat_sheet.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/DA_Pandas.PNG?" alt="Illustration" height="320px" width="415px"/> &nbsp; &nbsp; &nbsp;</a><a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Pandas/Reading%20and%20Writing%20data%20with%20PANDAS.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/RW_Panda.PNG?" alt="Illustration" width="415px" height="320px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Data Analysis with Pandas<b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Pandas (Reading and Writing Data)<b><br/>
 
 
-<a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Python/python-cheatsheets-ds.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/PythonForDS.PNG?" alt="Illustration" height="300px" width="415px"/> &nbsp; &nbsp; &nbsp;</a><a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Python/100_numpy_exercises.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/101_numpy_exercises.jpg?" alt="Illustration" width="415px" height="300px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Python for Data Science<b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>100 Numpy Exercises<b><br/>
+<a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Python/python-cheatsheets-ds.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/PythonForDS.PNG?" alt="Illustration" height="300px" width="415px"/> &nbsp; &nbsp; &nbsp;</a><a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Numpy/100_numpy_exercises.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/101_numpy_exercises.jpg?" alt="Illustration" width="415px" height="300px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Python for Data Science<b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>100 Numpy Exercises<b><br/>
 
 
-<a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Python/Python%20for%20Data%20Analysis.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/pythonforDA.PNG?" alt="Illustration" height="300px" width="415px"/> &nbsp; &nbsp; &nbsp;</a><a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Python/pandas-10min.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/Pandas_10mins.PNG?" alt="Illustration" width="415px" height="300px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Python for Data Analysis<b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>10 Minutes to Pandas<b><br/>
+<a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Python/Python%20for%20Data%20Analysis.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/pythonforDA.PNG?" alt="Illustration" height="300px" width="415px"/> &nbsp; &nbsp; &nbsp;</a><a href="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Pandas/pandas-10min.pdf"><img src="https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Images/Pandas_10mins.PNG?" alt="Illustration" width="415px" height="300px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Python for Data Analysis<b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>10 Minutes to Pandas<b><br/>
+
+
 
 # R Language
 
